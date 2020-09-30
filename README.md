@@ -1,7 +1,7 @@
 # MoltenGamepad
 *Flexible input device remapper, geared towards gamepads*
 
-(Tested only on Arch Linux, 64-bit)
+(Tested only on Arch Linux, 64-bit) :)
 
 ## Motivation
 
